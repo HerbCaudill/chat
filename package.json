@@ -1,0 +1,10 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HerbCaudill",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
